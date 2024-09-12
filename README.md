@@ -26,7 +26,7 @@
 
 ## 📈 GitHub 통계
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=suubii&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ssuubii&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 연락하기
 - **이메일**: your.email@example.com
